@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "game_version": "v0.98.3",
+  "files": [
+    { "name": "StayAlive.dll", "sha256": "199EC9B58A7EFC4DD8B051CF9936C3702D2A2639442257AE8ED3B0D7D20595C1" },
+    { "name": "StayAlive.pck", "sha256": "ED2F73902A8FC619AD3ACCB88F1A664DB02C7746C14026CB43CC9EF4DB40DEB9" }
+  ]
+}

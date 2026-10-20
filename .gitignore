@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.build/
+*.user
+*.log
+*.pdb
+data_sts2_windows_x86_64/
+steam/
+*.save
+*.backup
+*.key
+*.pem
+.env
